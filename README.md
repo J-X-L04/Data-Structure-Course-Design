@@ -8,11 +8,10 @@
 ### 2、项目主要功能：
 
 #### (1) 《溯源者：文明环境》项目分析PPT：
-[点击此处查看或下载项目分析PPT](./《溯源者：文明环境》项目分析.pptx) 
-
+[点击此处查看或下载项目分析PPT](《溯源者：文明环境》项目分析.pptx) 
 
 #### (2) 《溯源者：文明环境》项目展示视频：
-*(看下方第二部分的说明，将视频拖拽到这里即可)*
+https://github.com/user-attachments/assets/1ce5a827-87fa-4f30-8c6d-223f92bdbac7
 
 ### 3、项目仓库：
 [点击访问 Tracer-Civilization-Environment 仓库](https://github.com/Yueban-gzh/Tracer-Civilization-Environment)

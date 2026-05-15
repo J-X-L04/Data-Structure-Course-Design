@@ -31,3 +31,23 @@ https://github.com/user-attachments/assets/95949ec0-3258-4fcb-98d2-25afbf417690
 
 ### 3、项目仓库：
 [点击访问 Tracer-Civilization-Environment 仓库](https://gitee.com/lte_z/spirit-ink)
+
+
+## 三、《京轨——在地铁上读懂北京》
+
+### 1、项目介绍：
+京轨（JingRail.AI）是一个面向来京外国游客的地铁文旅导游项目，基于北京入境旅游快速增长的市场背景，针对外国游客缺乏游玩指引、文化背景陌生、沿线解读匮乏等痛点而设计。它不仅能提供景点与美食推荐、沉浸式文化讲解、地铁沿线讲解、多语言切换等功能，还为外国游客构建了一个可随心探索的中华文化知识图谱。
+
+### 2、项目主要功能：
+
+#### （1）景点与美食推荐功能：
+<img width="2560" height="1326" alt="景点与美食推荐" src="https://github.com/user-attachments/assets/ace04aea-9812-4ccf-b7aa-c3add660d6a9" />
+
+#### （2）文化讲解与沿线讲解功能：
+<img width="2560" height="1333" alt="文化讲解与沿线讲解" src="https://github.com/user-attachments/assets/60341ecb-7126-4be2-a773-1920417014d6" />
+
+#### （1）知识图谱探索功能：
+<img width="2557" height="1329" alt="知识图谱探索" src="https://github.com/user-attachments/assets/a63051ec-64fb-4186-8cd9-fd1bebee0415" />
+
+### 3、项目仓库：
+[点击访问 Tracer-Civilization-Environment 仓库](https://gitee.com/lte_z/spirit-ink)

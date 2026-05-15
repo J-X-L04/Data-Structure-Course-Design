@@ -50,4 +50,4 @@ https://github.com/user-attachments/assets/95949ec0-3258-4fcb-98d2-25afbf417690
 <img width="2557" height="1329" alt="知识图谱探索" src="https://github.com/user-attachments/assets/a63051ec-64fb-4186-8cd9-fd1bebee0415" />
 
 ### 3、项目仓库：
-[点击访问 Tracer-Civilization-Environment 仓库](https://gitee.com/lte_z/spirit-ink)
+[点击访问 Tracer-Civilization-Environment 仓库](https://github.com/loveustars/dsproject)

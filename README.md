@@ -32,7 +32,6 @@ https://github.com/user-attachments/assets/95949ec0-3258-4fcb-98d2-25afbf417690
 ### 3、项目仓库：
 [点击访问 Tracer-Civilization-Environment 仓库](https://gitee.com/lte_z/spirit-ink)
 
-
 ## 三、《京轨——在地铁上读懂北京》
 
 ### 1、项目介绍：
@@ -51,3 +50,15 @@ https://github.com/user-attachments/assets/95949ec0-3258-4fcb-98d2-25afbf417690
 
 ### 3、项目仓库：
 [点击访问 Tracer-Civilization-Environment 仓库](https://github.com/loveustars/dsproject)
+
+## 四、《句读之间》——中华诗词成语游戏
+
+### 1、项目介绍：
+《句读之间》是一个以成语和古诗词为核心内容的文字益智游戏平台。系统通过首页统一展示各个游戏模块，玩家可以根据兴趣选择不同玩法，并在游戏过程中进行成语接龙、成语猜测、诗词线索推理和诗词成语重组等操作。项目整体功能包括首页导航、多个游戏模块、难度选择、提示反馈、成绩结算和排行榜记录等部分。
+
+### 2、项目主要功能：
+
+
+
+### 3、项目仓库：
+[点击访问 Tracer-Civilization-Environment 仓库](https://github.com/TonyLizt/LineVerse)

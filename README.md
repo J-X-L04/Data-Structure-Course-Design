@@ -99,3 +99,45 @@ https://github.com/user-attachments/assets/95949ec0-3258-4fcb-98d2-25afbf417690
 
 ### 3、项目仓库：
 [点击访问 Tracer-Civilization-Environment 仓库](https://github.com/TonyLizt/LineVerse)
+
+# 2026-数据结构课程设计
+
+## 五、《Satori 禅道》
+
+### 1、项目介绍：
+Satori（禅道）是一款以“焚香专注”为核心体验的自定义应用软件，项目形式包含 Flutter 主应用和微信小程序。它面向学习者在注意力分散、任务堆积、复盘缺失等场景中的真实问题，通过任务规划、专注计时、白噪音陪伴、日历打卡、统计复盘和本地优先记录，帮助用户形成稳定、可回顾的学习节奏。
+本项目通过产品流程展现中国精神：把“自律、静心、责任、日省其身”的精神转化为创建任务、开始专注、完成记录和复盘统计。用户开始一次专注如同点燃一炷香，完成后留下记录并进行复盘，长期坚持后通过热力图和连续天数看到个人成长。传统文化元素服务于学习行为，工程实现服务于稳定使用。
+
+### 2、项目主要功能：
+Satori 以“焚香”为核心专注仪式，把计时、白噪音、器乐、复盘和统计收拢在一个安静的使用流程里。用户可以离线使用基础功能，也可以在配置 Supabase 后开启账号登录与云端行迹同步。主要能力包括：
+（1）焚香专注：倒计时、正计时、预设时长、自定义时长、暂停、放弃、手动完成与结束小结。
+（2）复盘记录：任务标签、小结备注、完成感受、短时专注过滤和本地历史记录。
+（3）听雨与抚琴：白噪音、器乐播放、音量控制和会员权益锁定展示。
+（4）行迹统计：总时长、专注天数、完成率、连续天数、趋势图、热力图、历史列表、单日时间轴和会话详情。
+（5）账号与云同步：通过 Supabase 邮箱密码登录、注册、重置密码和 focus session 双向合并。
+（6）微信小程序：任务管理、番茄计时、日历打卡、统计面板、国风名言弹窗和设置页。
+
+#### (1) 《Satori 禅道》项目数据结构模式：
+<img width="2559" height="1270" alt="database_schema_visualizer1" src="https://github.com/user-attachments/assets/d51b74ad-6586-4767-87a8-1c48fc66818f" />
+
+<img width="2559" height="1273" alt="database_schema_visualizer2" src="https://github.com/user-attachments/assets/2d80c455-b5c9-4d1b-9705-ba01c8581754" />
+
+#### (2) 《Satori 禅道》项目焚香专注模式：
+<img width="509" height="1138" alt="focus_page1" src="https://github.com/user-attachments/assets/f21b5583-22ca-4ae3-90ad-b04b3f69288b" />
+
+#### (3) 《Satori 禅道》项目复盘记录模式：
+<img width="510" height="1135" alt="history_page1" src="https://github.com/user-attachments/assets/3fa4a9e6-f4d6-4f34-aae7-d06ca9b0d0b6" />
+
+<img width="508" height="1137" alt="history_page2" src="https://github.com/user-attachments/assets/07f03f06-37c4-4f0e-9e0c-0b2a03604b86" />
+
+<img width="506" height="1135" alt="history_page3" src="https://github.com/user-attachments/assets/c4f392fd-230a-41b9-9a0a-34da1f6abe9c" />
+
+<img width="506" height="1133" alt="hiatory_page4" src="https://github.com/user-attachments/assets/41388cbc-8614-4a61-b552-e3563c0170b2" />
+
+#### (4) 《Satori 禅道》项目听雨与抚琴模式：
+<img width="509" height="1136" alt="music_page" src="https://github.com/user-attachments/assets/e8e49d18-b34d-43d9-acbc-f2fc9362321f" />
+
+<img width="510" height="1138" alt="white_noise_page" src="https://github.com/user-attachments/assets/68bff44d-d211-4e5b-bd0f-759cc6e44678" />
+
+### 3、项目仓库：
+[点击访问 Tracer-Civilization-Environment 仓库](github.com/Kahiy314/Satori)

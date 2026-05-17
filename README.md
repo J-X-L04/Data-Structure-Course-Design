@@ -57,7 +57,45 @@ https://github.com/user-attachments/assets/95949ec0-3258-4fcb-98d2-25afbf417690
 《句读之间》是一个以成语和古诗词为核心内容的文字益智游戏平台。系统通过首页统一展示各个游戏模块，玩家可以根据兴趣选择不同玩法，并在游戏过程中进行成语接龙、成语猜测、诗词线索推理和诗词成语重组等操作。项目整体功能包括首页导航、多个游戏模块、难度选择、提示反馈、成绩结算和排行榜记录等部分。
 
 ### 2、项目主要功能：
-[《句读之间》——中华诗词成语游戏项目功能介绍.pdf](https://github.com/user-attachments/files/27854956/default.pdf)
+
+#### (1) 《句读之间》——中华诗词成语游戏项目分析PDF：
+[《句读之间》——中华诗词成语游戏项目功能介绍.pdf](https://github.com/user-attachments/files/27866786/default.pdf)
+
+#### (2) 《句读之间》——中华诗词成语游戏项目主要功能截图：
+
+##### <1> 《句读之间》——中华诗词成语游戏主界面选择：
+<img width="1279" height="764" alt="主界面" src="https://github.com/user-attachments/assets/1952c23f-b495-44b5-ae3c-fe9cbbb21b5b" />
+
+##### <2> 《句读之间》——中华诗词成语游戏数字音调模式：
+<img width="1279" height="766" alt="数字音调" src="https://github.com/user-attachments/assets/8480d88b-d6c5-43df-a8b8-3c427a64f50c" />
+
+##### <3> 《句读之间》——中华诗词成语游戏符号音调模式：
+<img width="1279" height="766" alt="符号音调" src="https://github.com/user-attachments/assets/e2c05c47-20fd-41bf-a803-760cb9a0b64d" />
+
+##### <4> 《句读之间》——中华诗词成语游戏成语接龙模式：
+有三种模式可供选择，分别是简单模式、中等模式以及困难模式：
+<img width="1279" height="764" alt="简单模式" src="https://github.com/user-attachments/assets/694548bd-383f-4949-958b-3dd5e510007c" />
+
+<img width="1279" height="770" alt="中等模式" src="https://github.com/user-attachments/assets/9aac3660-8acd-4a47-b68f-ee14a16e859e" />
+
+<img width="1279" height="764" alt="困难模式" src="https://github.com/user-attachments/assets/6d6a7368-8683-4669-b02f-dc7ff3735652" />
+
+每次挑战后，都会进行得分统计和得分排行榜计算：
+<img width="1279" height="764" alt="结算画面" src="https://github.com/user-attachments/assets/a7783fac-ac57-4b55-9763-4d843d459752" />
+
+<img width="1279" height="764" alt="得分排行榜" src="https://github.com/user-attachments/assets/6f416275-b617-459c-b280-0ecfec3626e2" />
+
+此外，成语接龙模式还可进行创建/假如房间，以实现多人游戏：
+<img width="1279" height="799" alt="成语接龙_多人挑战" src="https://github.com/user-attachments/assets/9d063bd8-ae06-4129-9958-41b73555da25" />
+
+##### <5> 《句读之间》——中华诗词成语游戏诗成语现模式：
+<img width="1279" height="762" alt="诗成语现" src="https://github.com/user-attachments/assets/0b627572-01d0-4d9c-b593-4bb06f36e9c2" />
+
+##### <6> 《句读之间》——中华诗词成语游戏线索诗词模式：
+有两种模式可供选择，分别是电脑出题和你划我猜：
+<img width="1279" height="764" alt="线索诗词_电脑出题" src="https://github.com/user-attachments/assets/e5a824d9-81c5-4d3d-81a9-cacf9509b7bc" />
+
+<img width="1279" height="763" alt="线索诗词_你划我猜" src="https://github.com/user-attachments/assets/68a066ce-6832-4284-b671-a65df647c039" />
 
 ### 3、项目仓库：
 [点击访问 Tracer-Civilization-Environment 仓库](https://github.com/TonyLizt/LineVerse)

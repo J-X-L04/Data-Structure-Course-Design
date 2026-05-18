@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/95949ec0-3258-4fcb-98d2-25afbf417690
 ### 2、项目主要功能：
 
 #### (1) 《句读之间》——中华诗词成语游戏项目分析PDF：
-[《句读之间》——中华诗词成语游戏项目功能介绍.pdf](https://github.com/user-attachments/files/27866786/default.pdf)
+[点击此处查看或下载项目分析PPT](./《句读之间》——中华诗词成语游戏项目分析.pdf)
 
 #### (2) 《句读之间》——中华诗词成语游戏项目主要功能截图：
 
